@@ -32,7 +32,7 @@ pip install -r sdn_packages.txt
 ## Datasets
 ### Prepare your dataset
 **1. Download and pre-process data**
-Follow the [3D-ResNets-PyTorch instruction](https://github.com/kenshohara/3D-ResNets-PyTorch#preparation).
+- Follow the [3D-ResNets-PyTorch instruction](https://github.com/kenshohara/3D-ResNets-PyTorch#preparation).
 
 **2. Download scene and human detection data numpy files**
 - [Download the Mini-kinetics scene pseudo labels](https://filebox.ece.vt.edu/~jinchoi/files/sdn/places_data.zip)
@@ -185,7 +185,7 @@ python train.py \
 --result_path <path (dir) to save your fine-tuned model> \
 --resume_path <path (the model checkpoint file) to save your fine-tuned model>
 ```
-This step will generate `val.json` file under `$result_path`
+This step will generate `val.json` file under `$result_path`.
 
 ## Evaluation
 ```
