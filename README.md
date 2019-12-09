@@ -23,7 +23,9 @@ This codebase was developed and tested with:
 - CUDA 9.0
 - CUDNN 7.1
 - GPU: P100 
-Dependencies can be found from `sdn_packages.txt`
+
+You can find dependencies from `sdn_packages.txt`
+
 You can install dependencies by
 ```
 pip install -r sdn_packages.txt 
