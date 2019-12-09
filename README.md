@@ -36,7 +36,7 @@ Follow the [3D-ResNets-PyTorch instruction](https://github.com/kenshohara/3D-Res
 
 **2. Download scene and human detection data numpy files**
 - [Download the Mini-kinetics scene pseudo labels](https://filebox.ece.vt.edu/~jinchoi/files/sdn/places_data.zip)
-- [Mini-kinetics human detections](https://filebox.ece.vt.edu/~jinchoi/files/sdn/detections.zip)
+- [Download the mini-kinetics human detections](https://filebox.ece.vt.edu/~jinchoi/files/sdn/detections.zip)
 
 ## Train
 ### Training on a source dataset (mini-Kinetics)
