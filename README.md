@@ -22,7 +22,7 @@ This codebase was developed and tested with:
 - torchvision 0.2.1
 - CUDA 9.0
 - CUDNN 7.1
-- GPU: P100 
+- GPU: 2xP100 
 
 You can find dependencies from `sdn_packages.txt`
 
