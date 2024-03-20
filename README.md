@@ -197,7 +197,7 @@ python utils/eval_diving48.py \
 ```
 
 ## Pre-trained model weights provided
-[Download the pre-trained weights](https://drive.google.com/file/d/1gkyL80fDXmFCBjtgKlFNKVqb4OHNhrDL/view?usp=sharing)
+[Download the pre-trained weights](https://www.dropbox.com/scl/fi/j2pgucu8gvpz3jp5ygl91/pre-trained_weights.tar?rlkey=gicecxrpj2o7ipjmhmx0hlcrl&dl=0)
 
 ## Acknowledgments
 This code is built upon [3D-ResNets-PyTorch codebase](https://github.com/kenshohara/3D-ResNets-PyTorch). We thank to Kensho Hara. 
